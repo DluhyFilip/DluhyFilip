@@ -5,8 +5,6 @@
 
 - 🔭 Momentálně pracuji na **bakalářské práci**
 
-- 🌱 Učím se **práci s programem Blender**
-
 - 📫 Ozvat se mi můžete na **filip.dluhy@seznam.cz**
 
 <h3 align="left">Mé sociální sítě:</h3>
