@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dluhyfilip&label=Zhl%C3%A9dnut%C3%AD%20profilu&color=a90eb4&style=flat" alt="dluhyfilip" /> </p>
 
-- 🔭 Momentálně pracuji na projektu **function-generator**
-
 - 📫 Ozvat se mi můžete na **filip.dluhy@seznam.cz**
 
 <h3 align="left">Co používám:</h3>
