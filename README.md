@@ -1,8 +1,6 @@
 <h1 align="center">Filip Dluhý,</h1>
 <h3 align="center">student VUT v Brně (Automatizační a měřící technika)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dluhyfilip&label=Zhl%C3%A9dnut%C3%AD%20profilu&color=a90eb4&style=flat" alt="dluhyfilip" /> </p>
-
 - 📫 Ozvat se mi můžete na **filip.dluhy@seznam.cz**
 
 <h3 align="left">Co používám:</h3>
